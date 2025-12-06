@@ -7,6 +7,29 @@
 
 LAW 0AR provides a clean, origin-centered expression of action–reaction symmetry suited for both classical systems and modern distributed interactions. It preserves all Newtonian behavior where pairwise force exchange is clear, while offering a stable structural alternative for fluids, fields, jets, plasmas, and other non-local regimes.
 
+> **Note:** LAW 0AR is *not* a new force law. It does not modify force, momentum, or Newtonian mechanics; it only provides a bounded structural representation of symmetry.
+
+---
+
+## 🔗 Quick Links
+
+### **Docs**
+- [Brief LAW 0AR (ver1.8)](docs/Brief_LAW-0AR_ver1.8.pdf)  
+- [Full LAW 0AR Scientific Draft (ver1.8)](docs/LAW%200AR_ver1.8.pdf)  
+
+### **FAQ**
+- [LAW 0AR — Frequently Asked Questions](FAQ.md)
+
+### **Core Sections**
+- [Mathematical Structural Pair](#mathematical-structural-pair-ascii)  
+- [10-Second Verification](#⭐-10-second-verification-corrected-ssmo-ar-kernel-demo)  
+- [Why LAW 0AR Is Needed](#why-law-0ar-is-needed)
+
+### **Validation**
+- [Rocket Thrust Symmetry](#real-world-validation-public-datasets)  
+- [Airfoil Pressure Fields](#real-world-validation-public-datasets)  
+- [Metal Stress–Strain Symmetry](#real-world-validation-public-datasets)
+
 ---
 
 ## What is Structural Symmetry LAW 0AR?
