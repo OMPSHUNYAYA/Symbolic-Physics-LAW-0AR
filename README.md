@@ -22,7 +22,7 @@ LAW 0AR provides a clean, origin-centered expression of action–reaction symmet
 
 ### **Core Sections**
 - [Mathematical Structural Pair](#mathematical-structural-pair-ascii)  
-- [10-Second Verification](#⭐-10-second-verification-corrected-ssmo-ar-kernel-demo)  
+- [10-Second Verification](#10-second-verification-ssmo-ar-kernel-demo)
 - [Why LAW 0AR Is Needed](#why-law-0ar-is-needed)
 
 ### **Validation**
@@ -117,7 +117,7 @@ Meaning: Newton’s Third Law is exactly reproduced.
 
 ---
 
-## ⭐ 10-Second Verification (Corrected SSMO-AR Kernel Demo)
+## 10-Second Verification (SSMO-AR Kernel Demo)
 
 A quick demonstration of bounded, symmetric behaviour consistent with the validated LAW 0AR pipeline (tanh → tanh → identity):
 
