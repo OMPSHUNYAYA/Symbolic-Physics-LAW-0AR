@@ -24,9 +24,9 @@ Where the pairwise picture becomes difficult (fluids, fields, jets, plasmas), LA
 
 ---
 
-## Core Statement of LAW 0AR (ASCII)
+## Core Statement of LAW 0AR
 
-"Every physical interaction produces a dual, symmetric, bounded pair of structural responses originating from the same interaction source."
+**"Every physical interaction produces a dual, symmetric, bounded pair of structural responses originating from the same interaction source."**
 
 This preserves:
 
